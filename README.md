@@ -1,6 +1,7 @@
 # AngulerRouter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+- Router là một module được đặt tại @angular/router, cung cấp cho ứng dụng Angluar của chúng ta khả năng điều hướng và hiển thị nội dung phù hợp với địa chỉ URL. Với các ứng dụng web thông thường, việc điều hướng theo URL thường sẽ do phía server đảm nhiệm.
 
 ## Development server
 
